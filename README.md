@@ -1,1 +1,2 @@
-# b.l.u
+# b.l.u Intelligence
+
